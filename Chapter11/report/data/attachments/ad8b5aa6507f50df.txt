@@ -1,0 +1,1 @@
+the book name is Python实现Web UI自动化测试实战：Selenium 3 4+unittest Pyte(异步图书出品)

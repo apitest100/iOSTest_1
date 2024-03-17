@@ -1,0 +1,5 @@
+"appium:platformName": "iOS"
+"appium:platformVersion": "16.3.1"
+"appium:deviceName": "iPhone 12"
+"appium:udid": "00008101-000B64AE3C98001E"
+"appium:bundleId": "com.360buy.jdmobile"
